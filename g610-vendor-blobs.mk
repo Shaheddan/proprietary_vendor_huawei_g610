@@ -142,7 +142,6 @@ PRODUCT_COPY_FILES += \
  vendor/huawei/g610/proprietary/lib/libcam_utils.so:system/lib/libcam_utils.so \
  vendor/huawei/g610/proprietary/lib/libcamalgo.so:system/lib/libcamalgo.so \
  vendor/huawei/g610/proprietary/lib/libcamdrv.so:system/lib/libcamdrv.so \
- vendor/huawei/g610/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
  vendor/huawei/g610/proprietary/lib/libcameracustom.so:system/lib/libcameracustom.so \
  vendor/huawei/g610/proprietary/lib/libcustom_nvram.so:system/lib/libcustom_nvram.so \
  vendor/huawei/g610/proprietary/lib/libcvsd_mtk.so:system/lib/libcvsd_mtk.so \
