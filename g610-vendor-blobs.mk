@@ -202,6 +202,8 @@ PRODUCT_COPY_FILES += \
  vendor/huawei/g610/proprietary/xbin/libmnlp_mt6628:system/xbin/libmnlp_mt6628 \
  vendor/huawei/g610/proprietary/xbin/mnld:system/xbin/mnld \
  vendor/huawei/g610/proprietary/bin/wmt_loader:system/bin/wmt_loader \
- vendor/huawei/g610/proprietary/lib/libcam_platform.so:system/lib/libcam_platform.so
+ vendor/huawei/g610/proprietary/lib/libcam_platform.so:system/lib/libcam_platform.so \
+ vendor/huawei/g610/proprietary/lib/libcam.device1.so:system/lib/libcam.device1.so \
+ vendor/huawei/g610/proprietary/lib/libcam_hwutils.so:system/lib/libcam_hwutils.so
 PRODUCT_COPY_FILES += \
  vendor/huawei/g610/proprietary/lib/libaudio.primary.default.so:system/lib/hw/audio.primary.mt6589.so
